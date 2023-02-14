@@ -33,3 +33,5 @@ class Rectangulo:
         base = abs(self.punto_2.x - self.punto_1.x)
         altura = abs(self.punto_2.y - self.punto_1.y)
         return base==altura
+
+    .
